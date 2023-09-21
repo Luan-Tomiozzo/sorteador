@@ -2,7 +2,7 @@
 
 Um aplicativo React simples para sortear um número entre um intervalo definido pelo usuário.
 
-![Screenshot do Sorteador de Números](url-da-imagem-do-projeto-aqui)
+![Screenshot do Sorteador de Números](/public/print.png)
 
 ## 🚀 Começando
 
