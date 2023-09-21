@@ -1,46 +1,60 @@
-# Getting Started with Create React App
+# Sorteador de Números
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Um aplicativo React simples para sortear um número entre um intervalo definido pelo usuário.
 
-## Available Scripts
+![Screenshot do Sorteador de Números](/public/print.png)
 
-In the project directory, you can run:
+## 🚀 Começando
 
-### `npm start`
+Estas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e testes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 📋 Pré-requisitos
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [Node.js](https://nodejs.org/) e [npm](https://www.npmjs.com/) instalados.
 
-### `npm test`
+## 🔧 Instalação
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clone este repositório:
+```bash
+git clone https://github.com/seu-nome-de-usuario/sorteador-de-numeros.git
+```
 
-### `npm run build`
+Navegue até o diretório do projeto:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+cd sorteador-de-numeros
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Instale as dependências:
+```bash
+npm install
+```
 
-### `npm run eject`
+Inicie a aplicação com o comando:
+```bash
+npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+O aplicativo agora deve estar em execução em [http://localhost:3000/](http://localhost:3000/).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## ⚙️ Construído com
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
-## Learn More
+## 📦 Distribuição
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Para criar uma versão de produção do aplicativo, execute:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm run build
+```
+
+Isto irá criar uma pasta `build/` com todos os arquivos otimizados para produção.
+
+## ✒️ Autor
+
+[Luan-Tomiozzo](https://github.com/Luan-Tomiozzo)
